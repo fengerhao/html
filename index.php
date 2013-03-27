@@ -21,4 +21,5 @@ Pass Word <input type="password" name="passwd" maxlength="20"/><br/><br/>
 </div>
 </body>
 </html>
-
+<?php
+echo 'hello word';
